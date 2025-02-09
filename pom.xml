@@ -225,6 +225,7 @@
             <jdk>${mojo.java.target}</jdk>
           </requirements>
         </configuration>
+  <reporting>		    
       </plugin>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -244,6 +245,7 @@
         </reportSets>
       </plugin>
     </plugins>
+</reprting>
 </build>
 	
 </project>
